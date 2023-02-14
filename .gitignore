@@ -1,3 +1,7 @@
+# seka original
+env.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
